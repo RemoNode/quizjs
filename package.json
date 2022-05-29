@@ -1,0 +1,23 @@
+{
+  "name": "quizjs",
+  "version": "1.0.0",
+  "description": "Random quiz application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizwe-mac/quizjs.git"
+  },
+  "author": "RemoNode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizwe-mac/quizjs/issues"
+  },
+  "homepage": "https://github.com/lizwe-mac/quizjs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
